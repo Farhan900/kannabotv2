@@ -59,18 +59,18 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '083813417529'
-global.nomorown = '6282146218274'
-global.namebot = 'Khuruhi-Md'
-global.nameown = 'Riellganzz'
+global.nomorbot = '+6287868860325'
+global.nomorown = '+6287868860325'
+global.namebot = 'AldiBotz-Md'
+global.nameown = 'Aldiganzz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282146218274'],
-  ['6282146218274'],
-  ['6282146218274'],
-  ['6282146218274', 'Rielganzz', true]
+  ['6287868860325'],
+  ['6287868860325'],
+  ['6287868860325'],
+  ['6287868860325', 'Aldiganzz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 KHURUSHI BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KHURUSHI - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ KHURUSHI 𝗕𝗢𝗧'
+global.wm = '                「 ALDI BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ALDI - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ALDI 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
